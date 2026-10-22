@@ -1,3 +1,7 @@
+/*
+    Author: Tiger
+*/
+
 #include <main.h>
 
 int main (void)

@@ -3,6 +3,7 @@
 */
 
 #include <main.h>
+#include <stdtypes.h>
 
 int main (void)
 {

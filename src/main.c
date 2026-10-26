@@ -13,5 +13,10 @@ int main (void)
 
 void login (void)
 {
-    printf("로그인 합니다. ")
+    printf("로그인 합니다.")
+}
+
+void logout (void)
+{
+    printf("로그아웃 합니다.")
 }

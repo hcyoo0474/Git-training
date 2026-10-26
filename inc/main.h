@@ -6,3 +6,4 @@
 #define MINOR_VERSION 0
 
 void login (void);
+void logout (void)
